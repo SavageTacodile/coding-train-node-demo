@@ -1,0 +1,16 @@
+{
+  "name": "coding-train-node-demo",
+  "version": "1.0.0",
+  "description": "just for demo purposes",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Brandon",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
