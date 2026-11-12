@@ -2,10 +2,9 @@ import * as fs from 'fs';
 // import * as cowsay from 'cowsay';
 import { say } from 'cowsay';
 
-console.log('choo choo!');
-
-const output = say({"text": "mooooo"});
+const output = say({ text: "Brandon" });
 console.log(output);
+
 
 // const words = ['unicorn', 'cupcake', 'rainbow', 'kitten'];
 // const output = words.join('\n');
